@@ -1,7 +1,7 @@
-## 아키텍처
+## 아키텍처 (Container based ??)
 
-Postgres   --> dms. 
-Oracle     --> dms.
+Postgres   --> dms. (cdc)
+Oracle     --> glue (batch)
 WebServer Logs --> ? 
 crawling data -->
 sns data -->
