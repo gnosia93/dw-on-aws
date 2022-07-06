@@ -6,7 +6,7 @@ WebServer Logs --> ?
 crawling data -->
 sns data -->
 external Affiliates  --> ftp / rest-api
-
+kafka (application logs) --> 
 
 ## 참고자료 
 
