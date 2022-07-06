@@ -16,3 +16,4 @@ external Affiliates  --> ftp / rest-api
 * [OLAP, MDX 및 비즈니스 인텔리전스](https://www.youtube.com/watch?v=yoE6bgJv08E)
 * [Business Intelligence: Multidimensional Analysis](https://www.youtube.com/watch?v=IhFkNmVmwn4)
 * [ETL vs ELT](https://rivery.io/blog/etl-vs-elt/)
+* [Open Source ETL tools](https://hevodata.com/learn/open-source-etl-tools-in-2022/#ac)
